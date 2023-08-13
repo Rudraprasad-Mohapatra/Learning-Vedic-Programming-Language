@@ -1,0 +1,6 @@
+# चक्रम् (for loop)
+# This will print ० to ९
+चक्र(मान अ = ०; अ < १०; अ = अ+ १) {
+# चक्रम् takes in 3 parameters initial value, and condition, and a step size
+    वद("अ =",अ);
+}  

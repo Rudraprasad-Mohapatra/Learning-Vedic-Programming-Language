@@ -1,0 +1,7 @@
+# This will print only till ५, it will break after अ = ५
+चक्र(मान अ = ०; अ < १०; अ = अ+ १){
+    यदि (अ >= ५){
+        विराम;  # viram is like continue
+    }
+    वद("अ =>",अ);    
+} 
